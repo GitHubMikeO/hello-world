@@ -3,4 +3,4 @@ hello-world
 
 GitHub Repository Tutorial
 
-Updated README files based on GitHub Tutorial.  
+Hello world! I'm Michael Ottiano, glad to meet you.  
